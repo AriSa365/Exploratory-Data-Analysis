@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis
 A detailed analysis of business data with the help of Python.
+![Screenshot 2024-07-03 134652](https://github.com/AriSa365/Exploratory-Data-Analysis/assets/174586469/bca25be4-b442-49cf-ad40-401304ff74be)
 
 ## Austo Motor Case Study
 
